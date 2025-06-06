@@ -2,7 +2,8 @@
 
 > A GUI tool that helps English learners extract new vocabulary from podcasts and export it to Anki.
 
-![screenshot](iShot_2025-06-06_17.13.25.png) <!-- 可以替换成你的项目截图路径 -->
+![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
 
 ---
 
