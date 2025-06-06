@@ -1,3 +1,9 @@
 app/app_audio/*
 app/output/*
-app/app_transcribe/*
+app/app_transcripts/*
+app/anki_exports/*
+
+!app/output/.gitkeep
+!app/anki_exports/.gitkeep
+!app/app_transcripts/.gitkeep
+!app/app_audio/.gitkeep
